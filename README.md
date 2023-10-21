@@ -45,32 +45,6 @@
    <br/>
    <br/>
 
-#### :computer: My devices
- 
-  
-##### :computer: My laptop 
-| **Component** | **Model** |
-| ------------- | --------- |
-| CPU | Intel Comet Lake i7-10710u |
-| RAM | 16GB (2 x 8GB) Samsung DDR4 @2666MHz |
-| IGPU | Intel Graphics UHD 630	|
-| DGPU | Nvidia GTX1650 Max-Q |
-| Display | CMN N156HCE-EN1 1920*1080(FHD) |
-| NVMe 1 | Samsung 970 EVO PLUS 1TB |
-| NVMe 2 | Samsung 970 EVO PLUS 500GB |
-| Audio | Realtek ACL298 |
-| Wireless | Intel AX201 |
-##### :desktop_computer: My desktop
-| **Component** | **Model** |
-| ------------- | --------- |
-| CPU | Intel Comet Lake i7-10700 |
-| RAM | 16GB (2 x 8GB) Samsung DDR4 @2666MHz |
-| GPU | Nvidia RTX3070 8GB |
-| Display | LG UltraGear 32GN650 2560*1440(WQHD) |
-| NVMe | Samsung 970 EVO PLUS 250GB |
-   <br/>
-   <br/>
- 
 #### :pencil2: Study log
  
   <br/>
