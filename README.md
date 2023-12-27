@@ -41,7 +41,8 @@
 <img src="https://img.shields.io/badge/windows terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
 <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
- 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    <br/>
    <br/>
 
