@@ -10,20 +10,19 @@
 
 <div align="left">
 
-## 📚 I studying
+## 📚 I'm studying
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-</p>
+</p><br>
 
 ## :e-mail: Contact Me!
 <p align="left">
   <a href="mailto:tisckd@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"></a>
   <a href="mailto:tisckd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<br>
+</p><br>
 
 ## 🐱 Github Stats
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan-kim&hide_title=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechan-kim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
