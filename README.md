@@ -17,9 +17,7 @@
 </p><br>
 
 ## 💻 Experiences
-<p align="left">
-  * 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ ing)
-</p><br>
+- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ ing)
 
 
 ## :e-mail: Contact Me!
