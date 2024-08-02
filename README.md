@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 </p><br>
 
 ## 💻 Experiences
@@ -30,7 +31,15 @@
 
 ## 🐱 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan-kim&hide_title=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechan-kim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yechan-kim&hide_title=true&show_icons=true&theme=dark&hide_border=true" width="60%"/>
+</a>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechan-kim&layout=compact&theme=dark&hide_border=true" width="39.5%"/>
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yechan-kim&theme=high-contrast&bg_color=151515&hide_border=true&line=d8d8d8&color=d8d8d8" width="100%"/>
+</a>
 
 </div>
