@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KimYeChan&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=YeChan%20Kim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 </div>
 
@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white">&nbsp;
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 </p><br>
 
