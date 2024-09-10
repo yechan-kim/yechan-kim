@@ -19,9 +19,10 @@
 </p><br>
 
 ## 💻 Experiences
-- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ ing)
+- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ 2024.08)
 - 제10회 삼성전자 대학생 프로그래밍 경진대회 (2024.07)
 - 메이플 대학생 게임 커리어 캠프, 메토링 (2024.08)
+- 가천대학교 IT 학술동아리 'Leets' 4th Server (2024.09 ~ ing)
 <br>
 
 ## :e-mail: Contact Me!
