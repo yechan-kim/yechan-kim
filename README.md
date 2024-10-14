@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-👋 Welcome to my github!
+👋 Welcome to my github! 
 </p>
 
 <div align="left">
@@ -41,6 +41,7 @@
 </p><br>
 
 ## 🐱 Github Stats
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyechankim%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yechan-kim&hide_title=true&show_icons=true&theme=dark&hide_border=true" width="60.5%"/>
