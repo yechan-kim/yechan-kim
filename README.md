@@ -14,9 +14,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;
+  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Databricks&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white">&nbsp;
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oculus&logoColor=white"/>&nbsp;
