@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oculus&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS Ec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS Rds-527FFF?style=flat-square&logo=amazonrds&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/AWS Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white">&nbsp;
   
