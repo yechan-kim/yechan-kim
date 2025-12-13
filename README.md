@@ -27,25 +27,25 @@
   
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oculus&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Kakao Cloud-FFCD00?style=flat-square&logo=kakao&logoColor=white">&nbsp;
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oculus&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle DataBase-F80000?style=flat-square&logo=oculus&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>&nbsp;
 </p><br>
 
+## 👨🏻‍💻 Career
+- AiT Story Full-stack (2025.09 ~ ing)
+
 ## 💻 Experiences
-- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ 2024.08)
+- 가천대학교 IT 학술동아리 'Leets' 3rd Back-end (2024.03 ~ 2024.08)
 - 메이플 대학생 게임 커리어 캠프, 메토링 (2024.08)
-- 가천대학교 IT 학술동아리 'Leets' 4th Server (2024.09 ~ 2025.02)
+- 가천대학교 IT 학술동아리 'Leets' 4th Back-end (2024.09 ~ 2025.02)
 - 가천 카카오엔터프라이즈 SW아카데미 (2025.03 ~ 2025.08)
-- 가천대학교 IT 학술동아리 'Leets' 5th Server (2025.03 ~ 2025.08)
+- 가천대학교 IT 학술동아리 'Leets' 5th Back-end (2025.03 ~ 2025.08)
 - 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)
-- 가천대학교 IT 학술동아리 'Leets' 6th Server (2025.09 ~ ing)
+- IT 창업 동아리 'Leets' 6th Back-end (2025.09 ~ ing)
 - SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)
 <br>
 
@@ -58,6 +58,7 @@
 - 컴퓨터활용능력 1급 (2023.03)
 - 네트워크관리사 2급 (2023.12)
 - 정보처리기사 (2025. 09)
+- SQL Developer (2025.12)
 <br>
 
 ## :e-mail: Contact Me!
