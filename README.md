@@ -68,10 +68,15 @@
 </p><br>
 
 ## 🐱 Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://www.gitanimals.org/ko_KR?utm_medium=image&utm_source=yechan-kim&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yechan-kim" width="70%"/>
+  </a>
+</p>
+  </br>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yechan-kim&hide_title=true&show_icons=true&theme=dark&hide_border=true" width="60.5%"/>
-</a>
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechan-kim&layout=compact&theme=dark&hide_border=true" width="39%"/>
 </a>
