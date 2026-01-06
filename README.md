@@ -36,7 +36,7 @@
 </p><br>
 
 ## 👨🏻‍💻 Career
-- AiT Story Full-stack (2025.09 ~ ing)
+- AiT Story Full-stack (2025.09 ~ 2025.12)
 
 ## 💻 Experiences
 - 가천대학교 IT 학술동아리 'Leets' 3rd Back-end (2024.03 ~ 2024.08)
