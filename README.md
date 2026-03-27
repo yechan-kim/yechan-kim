@@ -45,7 +45,7 @@
 - 가천 카카오엔터프라이즈 SW아카데미 (2025.03 ~ 2025.08)
 - 가천대학교 IT 학술동아리 'Leets' 5th Back-end (2025.03 ~ 2025.08)
 - 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)
-- IT 창업 동아리 'Leets' 6th Back-end (2025.09 ~ ing)
+- IT 창업 동아리 'Leets' 6th Back-end (2025.09 ~ 2026.02)
 - SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)
 <br>
 
