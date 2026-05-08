@@ -39,20 +39,18 @@
 - AiT Story Full-stack (2025.09 ~ 2025.12)
 
 ## 💻 Experiences
-- 가천대학교 IT 학술동아리 'Leets' 3rd Back-end (2024.03 ~ 2024.08)
-- 메이플 대학생 게임 커리어 캠프, 메토링 (2024.08)
-- 가천대학교 IT 학술동아리 'Leets' 4th Back-end (2024.09 ~ 2025.02)
-- 가천 카카오엔터프라이즈 SW아카데미 (2025.03 ~ 2025.08)
-- 가천대학교 IT 학술동아리 'Leets' 5th Back-end (2025.03 ~ 2025.08)
-- 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)
-- IT 창업 동아리 'Leets' 6th Back-end (2025.09 ~ 2026.02)
-- SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)
-- YAPP 28th Server (2026.05 ~ ing)
+<img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> Leets 3rd ~ 6th Back-end (2024.03 ~ 2026.02)<br>
+<img src="https://github.com/user-attachments/assets/d0582e7a-0555-4d75-a8d9-a454348935b7" width="15"/> 메이플 대학생 게임 커리어 캠프, 메토링 1st (2024.08)<br>
+<img src="https://avatars.githubusercontent.com/u/58731049?s=200&v=4" width="15"/> 가천 카카오엔터프라이즈 SW아카데미 6th (2025.03 ~ 2025.08)<br>
+<img src="https://github.com/user-attachments/assets/d54c9bdf-538e-4bb6-b6d7-f3fc0a8e4265" width="15"/> 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)<br>
+<img src="https://github.com/user-attachments/assets/53c9221b-13d0-4715-b9e9-9ba0c3a48b2c" width="15"/> SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)<br>
+<img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> YAPP 28th Server (2026.05 ~ ing)
 <br>
 
+
 ## 🏆 Awards
-- 2025 SW중심대학 디지털 경진대회 후원기업상(한글과컴퓨터) (2025.08)
-- 가천 카카오엔터프라이즈 SW아카데미 우수 수료생 (2025.08)
+<img src="https://github.com/user-attachments/assets/d54c9bdf-538e-4bb6-b6d7-f3fc0a8e4265" width="15"/> 2025 SW중심대학 디지털 경진대회 후원기업상(한글과컴퓨터) (2025.08) <br>
+<img src="https://avatars.githubusercontent.com/u/58731049?s=200&v=4" width="15"/> 가천 카카오엔터프라이즈 SW아카데미 우수 수료생 (2025.08)
 <br>
 
 ## 🪪 Certification
@@ -84,5 +82,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yechan-kim&theme=high-contrast&bg_color=151515&hide_border=true&line=d8d8d8&color=d8d8d8" width="100%"/>
 </a>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yechan-kim&column=5&theme=chalk" width="100%"/>
+</a>
 </div>
