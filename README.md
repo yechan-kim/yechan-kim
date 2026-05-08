@@ -47,6 +47,7 @@
 - 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)
 - IT 창업 동아리 'Leets' 6th Back-end (2025.09 ~ 2026.02)
 - SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)
+- YAPP 28th Server (2026.05 ~ ing)
 <br>
 
 ## 🏆 Awards
