@@ -36,7 +36,8 @@
 </p><br>
 
 ## 👨🏻‍💻 Career
-- AiT Story Full-stack (2025.09 ~ 2025.12)
+- Medialog Backend (2026.07 ~ now)
+- AiT Story Fullstack (2025.09 ~ 2025.12)
 
 ## 💻 Experiences
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> Leets 3rd ~ 6th Back-end (2024.03 ~ 2026.02)<br>
@@ -44,7 +45,7 @@
 <img src="https://avatars.githubusercontent.com/u/58731049?s=200&v=4" width="15"/> 가천 카카오엔터프라이즈 SW아카데미 6th (2025.03 ~ 2025.08)<br>
 <img src="https://github.com/user-attachments/assets/d54c9bdf-538e-4bb6-b6d7-f3fc0a8e4265" width="15"/> 2025 SW중심대학 디지털 경진대회 (2025.07 ~ 2025.08)<br>
 <img src="https://github.com/user-attachments/assets/53c9221b-13d0-4715-b9e9-9ba0c3a48b2c" width="15"/> SK AI SUMMIT 2025 University Zone Exhibitor (2025.11)<br>
-<img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> YAPP 28th Server (2026.05 ~ ing)
+<img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> YAPP 28th Server (2026.05 ~ now)
 <br>
 
 
