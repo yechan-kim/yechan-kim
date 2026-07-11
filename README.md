@@ -36,8 +36,8 @@
 </p><br>
 
 ## 👨🏻‍💻 Career
-- Medialog Backend (2026.07 ~ now)
-- AiT Story Fullstack (2025.09 ~ 2025.12)
+- mediaLog Software Engineer Intern (2026.07 ~ now)
+- AiT Story Fullstack Deveoper Intern (2025.09 ~ 2025.12)
 
 ## 💻 Experiences
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> Leets 3rd ~ 6th Back-end (2024.03 ~ 2026.02)<br>
